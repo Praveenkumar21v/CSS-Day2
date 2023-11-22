@@ -1,0 +1,23 @@
+
+table,th,td{
+    border: solid;
+    color:cadetblue;}
+     h1{
+        color:crimson
+    }
+    h2{
+        color: crimson;
+    }
+    h4{
+        color: crimson;
+    }
+    p{
+        color: darkslategrey;
+    }
+    ol {
+        color: darkslategrey;
+    }
+    ul{
+        color: darkslategrey;
+    }
+
